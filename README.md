@@ -1,4 +1,6 @@
-# 🚀System Administration | DevOps | Cloud | Cybersecurity Portfolio
+# Nidal K I
+
+## 🚀 System Administration | DevOps | Cloud | Cybersecurity
 
 Welcome to my professional portfolio! This repository showcases key projects demonstrating my expertise in **DevOps, Cloud Infrastructure, and Cybersecurity**. Each project is designed to solve real-world challenges, implementing best practices and modern technologies.
 
@@ -40,7 +42,4 @@ Implementing **GitOps** to streamline infrastructure deployment and application 
 ---
 
 ## 📫 Connect with Me
-- **GitHub**: [github.com/yourprofile](#)
-- **LinkedIn**: [linkedin.com/in/yourprofile](#)
-
-Let's collaborate and build secure, scalable, and efficient solutions together!
+- **GitHub**: [github.com/your
