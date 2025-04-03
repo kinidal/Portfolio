@@ -20,10 +20,10 @@ A structured **cloud migration strategy** leveraging **Azure Site Recovery (ASR)
 
 ---
 
-### 🔹 Dockerizing Internal Applications & Managing with Azure Container Services
-Transforming **legacy applications** into **Dockerized containers**, hosted on **Azure Container Services** and managed via **Azure Container Registry (ACR)**. This approach enhances **scalability, efficiency, and deployment automation**.
+### 🔹 Dockerizing Legacy Applications
+Transforming **legacy applications** into **Dockerized containers**. This approach enhances **scalability, efficiency, and deployment automation** of the legacy apps.
 
-➡️ **[Project Repository](#)**
+➡️ **[Project Repository]([#](https://github.com/kinidal/Dockerizing-Legacy-Apps/blob/main/1.%20README.md))**
 
 ---
 
