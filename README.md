@@ -23,7 +23,7 @@ A structured **cloud migration strategy** leveraging **Azure Site Recovery (ASR)
 ### 🔹 Dockerizing Legacy Applications
 Transforming **legacy applications** into **Dockerized containers**. This approach enhances **scalability, efficiency, and deployment automation** of the legacy apps.
 
-➡️ **[Project Repository](https://github.com/kinidal/Dockerizing-Legacy-Apps/blob/main/1.%20README.md)**
+➡️ **[Project Repository](https://github.com/kinidal/Dockerizing-Legacy-Apps/tree/main)**
 
 ---
 
