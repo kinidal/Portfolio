@@ -37,7 +37,8 @@ Designing and deploying a **highly available Kubernetes cluster**, managing cont
 ### 🔹 GitOps: Automating Web App Deployment using GitHub Workflows & IaC
 Implementing **GitOps** to streamline infrastructure deployment and application management using **GitHub Actions, Infrastructure as Code (IaC), and Docker**. This project automates **build, test, and deployment processes**, reducing manual intervention.
 
-➡️ **[Project Repository](#)**
+➡️ **[Project Repository](https://github.com/kinidal/GitOps-Automating-Web-App-Deployment-using-GitHub-Workflows-IaC/blob/main/README.md)**
+
 
 ---
 
