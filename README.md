@@ -2,7 +2,8 @@
 
 ## 🚀 System Administration | DevOps | Cloud | Cybersecurity
 
-Welcome to my professional portfolio! This repository showcases key projects demonstrating my expertise in **DevOps, Cloud Infrastructure, and Cybersecurity**. Each project is designed to solve real-world challenges, implementing best practices and modern technologies.
+Welcome to my professional portfolio! This repository showcases key projects demonstrating my expertise in **IT Systems administration, DevOps, Cloud Infrastructure, and Cybersecurity**.
+Each project is designed to solve real-world challenges, implementing best practices and modern technologies.
 
 ## 📌 Featured Projects
 
@@ -42,5 +43,15 @@ Implementing **GitOps** to streamline infrastructure deployment and application 
 
 ---
 
+### 🔹 Python Project for Automating IT Operations
+Implementing automated script based on python for IT operations such as Monitoring, Backup and Documentation for improving improved productivity and effectiveness.
+
+➡️ **[Project Repository](https://github.com/kinidal/GitOps-Automating-Web-App-Deployment-using-GitHub-Workflows-IaC/blob/main/README.md)**
+
+
+---
+
+
 ## 📫 Connect with Me
-- **GitHub**: [github.com/your
+- **Email**: nidalki@gmail.com
+- **Linked In**: https://www.linkedin.com/in/nidal-k-i-675b3147/
