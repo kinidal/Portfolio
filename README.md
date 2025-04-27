@@ -46,7 +46,7 @@ Implementing **GitOps** to streamline infrastructure deployment and application 
 ### 🔹 Python Project for Automating IT Operations
 Implementing automated script based on python for IT operations such as Monitoring, Backup and Documentation for improving improved productivity and effectiveness.
 
-➡️ **[Project Repository](https://github.com/kinidal/GitOps-Automating-Web-App-Deployment-using-GitHub-Workflows-IaC/blob/main/README.md)**
+➡️ **[Project Repository]()**
 
 
 ---
