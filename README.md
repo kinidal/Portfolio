@@ -10,7 +10,7 @@ Each project is designed to solve real-world challenges, implementing best pract
 ### 🔹 Data Loss Prevention (DLP) with Active Directory, Google Workspace & Fortigate Firewall
 Implementing a comprehensive **DLP solution** by integrating **Active Directory (AD), Google Workspace (GSuite), and Fortigate Firewall**. This project ensures **secure data handling**, prevents unauthorized access, and complies with industry security standards.
 
-➡️ [Project Repository](https://github.com/kinidal/Data-Leak-Prevention-Implementation-in-an-IT-Infrastructure)
+➡️ [Project Repository](https://kinidal.github.io/Data-Leak-Prevention-Implementation-in-IT-Infrastructure)
 
 ---
 
