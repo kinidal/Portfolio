@@ -14,10 +14,10 @@ Implementing a comprehensive **DLP solution** by integrating **Active Directory 
 
 ---
 
-### 🔹 Seamless On-Prem to Cloud Migration using Azure Site Recovery & VPN
+### 🔹 Hybrid Cloud Infrastructure with Azure Failover
 A structured **cloud migration strategy** leveraging **Azure Site Recovery (ASR)** and **Site-to-Site VPN** to securely transfer workloads from an **on-premises data center** to **Microsoft Azure**. This project ensures **high availability, disaster recovery, and minimal downtime**.
 
-➡️ [Project Repository](https://github.com/kinidal/Hybrid-Cloud-Infrastructure-with-Azure-Failover/blob/main/README.md#-architecture)
+➡️ [Project Repository](https://kinidal.github.io/Project-02/)
 
 ---
 
