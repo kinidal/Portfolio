@@ -24,7 +24,7 @@ A structured **cloud migration strategy** leveraging **Azure Site Recovery (ASR)
 ### 🔹 Dockerizing Legacy Applications
 Transforming **legacy applications** into **Dockerized containers**. This approach enhances **scalability, efficiency, and deployment automation** of the legacy apps.
 
-➡️ **[Project Repository](https://github.com/kinidal/Dockerizing-Legacy-Apps/tree/main)**
+➡️ **[Project Repository](https://kinidal.github.io/Project-03/)**
 
 ---
 
@@ -38,7 +38,7 @@ Designing and deploying a **highly available Kubernetes cluster**, managing cont
 ### 🔹 GitOps: Automating Web App Deployment using GitHub Workflows & IaC
 Implementing **GitOps** to streamline infrastructure deployment and application management using **GitHub Actions, Infrastructure as Code (IaC), and Docker**. This project automates **build, test, and deployment processes**, reducing manual intervention.
 
-➡️ **[Project Repository](https://github.com/kinidal/GitOps-Automating-Web-App-Deployment-using-GitHub-Workflows-IaC/blob/main/README.md)**
+➡️ **[Project Repository](https://kinidal.github.io/Project-05/)**
 
 
 ---
